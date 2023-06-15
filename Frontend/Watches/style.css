@@ -137,6 +137,13 @@ img {
     width: 286px;
 }
 
+.item-img-product-sw12 {
+    margin-top: 65px;
+    height: 500px;
+    width: 500px;
+
+}
+
 .item-title {
     font-size: 32px;
     font-weight: 400px;
